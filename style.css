@@ -1,0 +1,49 @@
+.header {
+  background-image: url(pro4.jpg); 
+  padding: 10px;
+  text-align: center;
+}
+
+
+
+  body{ background-color:  #ffffff;
+    display: }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #0066cc;
+  border: 2px solid white;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+ border: 2px solid white;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.di1{ background-image: url(pro6.jpg); opacity: 0.9;
+      background-repeat: ;
+    display: ; }
+
+.field{ background-color:#83a3af; opacity:0.9;
+        font-family:arial;  font-size: 139% }
+
+
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;}
