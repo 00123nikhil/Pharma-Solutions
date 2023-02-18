@@ -1,18 +1,32 @@
-# Pharma-Solutions
-The project ʻPharma Solutionsʼ is an attempt to automate the process of billing and ordering of a “Medical Store”. This web based application is designed for an individual seller who will be able to store data of customers and stock providers and actions performed on them
+# Title - Pharma Solutions
+## Medical store billing system.
 
-As today in the country most of the medical store are manual only which
-means they maintain their record of the person buying drugs and the quantity
-of it in the paper files, registers and blinders. The medical store billing system
-help the owner of the store in keeping the track of its customers and the drugs
-he/she is buying from store which further help it in the analysis of getting the
-stock for next term
+The medical store billing system PHP project on GitHub is a web-based application that enables users to manage and track the inventory of a medical store and create invoices for customers. The project is developed using PHP, MySQL, HTML, and CSS.
 
-# Objective of Project
-The main objectives of the billing system is to manage the details of
-bills, payments, customers, payments mode, delivery. The project is totally
-built at administrative end and thus only the administrator is guranteed the
-access
+The medical store billing system provides a user-friendly interface for customers to view products, purchase them, and generate invoices. Customers can view product details such as name, price, and availability in the store. The application allows customers to add multiple products to their cart.
+
+The project includes an admin panel for managing products, orders, and customers list. The admin can add, edit,avaiable medicines and add user to the database and also filter the medicines as per requirement.
+
+## Objective of this project
+- Add and maintain records of avaiable products
+- Add and maintain customers details
+- Make easy to use for user and admin.
 
 
+## Tech Stack
 
+**Langauges:** PHP, HTML, CSS
+
+**Server:** PHPMyadmin MYSQL
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Team Members
+
+- Nikhil Borse
+- Kamraj Babu
+- Suraj Chaudhary
+- Komal Chavan
